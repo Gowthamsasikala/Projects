@@ -2,12 +2,11 @@ package com;
 
 public class Use {
 
-	public static void main(String[] args) throws UniversityException {
-		
-		Student sc = new Student("Gowtham",28);
+	public static void main(String[] args) {
+		Student sc = new Student("Gowtham");
          sc.registerStudent();
         System.out.println("--------------------------------------------");
-         Student s = new Student("Malini",24);
+         Student s = new Student("Nancy");
          s.registerStudent();
          System.out.println("--------------------------------------------");
 	}

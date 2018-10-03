@@ -13,7 +13,7 @@ public class Registrar {
 		return new Registrar();
 	}
 	
-	public String registerStudent(Student student) throws RegistrationException {
+	public String registerStudent(Student student) {
 		Validator vali = Validator.getValidator();
 		 boolean b = vali.validateStudentDetails(student);
 		 

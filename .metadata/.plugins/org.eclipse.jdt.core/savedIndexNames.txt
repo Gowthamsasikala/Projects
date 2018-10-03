@@ -1,0 +1,6 @@
+INDEX VERSION 1.129+D:\case study git\.metadata\.plugins\org.eclipse.jdt.core
+2142944833.index
+2326397003.index
+329470449.index
+2378679378.index
+1674159486.index
